@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <item>
+    <first_name><![CDATA[Kiestis]]></first_name>
+    <age><![CDATA[29]]></age>
+    <gender><![CDATA[male]]></gender>
+  </item>
+  <item>
+    <first_name><![CDATA[Vytska]]></first_name>
+    <age><![CDATA[32]]></age>
+    <gender><![CDATA[male]]></gender>
+  </item>
+  <item>
+    <first_name><![CDATA[Karina]]></first_name>
+    <age><![CDATA[25]]></age>
+    <gender><![CDATA[female]]></gender>
+  </item>
+</items>
