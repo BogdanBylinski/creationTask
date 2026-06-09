@@ -10,7 +10,6 @@
 <header class="site-header">
     <div class="container">
         <h1 class="site-title">Failo duomenų nuskaitymas</h1>
-        <p class="site-subtitle">Įkelk CSV, XML arba JSON – duomenis parodysiu lentelėje</p>
     </div>
 </header>
 
@@ -27,7 +26,7 @@
                           d="M19 15v4H5v-4H3v4a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-4zM11 16h2V8l3.5 3.5 1.42-1.42L12 4.66 6.08 10.08 7.5 11.5 11 8z"/>
                 </svg>
                 <div class="dz-text">
-                    <span class="dz-title" aria-live="polite" aria-atomic="true">Vilk ir paleisk failą čia</span>
+                    <span class="dz-title" aria-live="polite" aria-atomic="true">Pridėti failą</span>
                     <span class="dz-sub">arba paspausk, kad pasirinktum</span>
                     <span class="dz-accept">Leidžiama: .csv, .xml, .json</span>
                 </div>
@@ -39,7 +38,6 @@
                         accept=".csv,.xml,.json"
                 >
             </label>
-            <div id="file_help" class="help-text">Failas nebus išsaugomas serveryje – naudojamas tik parodymui.</div>
 
             <div class="actions">
                 <button type="submit" class="btn primary">Įkelti failą</button>
